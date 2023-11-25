@@ -1,0 +1,14 @@
+C:\Users\Bolit\RiderProjects\StudyPractice4\StudyPractice4ex5\bin\Debug\net7.0\StudyPractice4ex5.exe
+C:\Users\Bolit\RiderProjects\StudyPractice4\StudyPractice4ex5\bin\Debug\net7.0\StudyPractice4ex5.deps.json
+C:\Users\Bolit\RiderProjects\StudyPractice4\StudyPractice4ex5\bin\Debug\net7.0\StudyPractice4ex5.runtimeconfig.json
+C:\Users\Bolit\RiderProjects\StudyPractice4\StudyPractice4ex5\bin\Debug\net7.0\StudyPractice4ex5.dll
+C:\Users\Bolit\RiderProjects\StudyPractice4\StudyPractice4ex5\bin\Debug\net7.0\StudyPractice4ex5.pdb
+C:\Users\Bolit\RiderProjects\StudyPractice4\StudyPractice4ex5\obj\Debug\net7.0\StudyPractice4ex5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bolit\RiderProjects\StudyPractice4\StudyPractice4ex5\obj\Debug\net7.0\StudyPractice4ex5.AssemblyInfoInputs.cache
+C:\Users\Bolit\RiderProjects\StudyPractice4\StudyPractice4ex5\obj\Debug\net7.0\StudyPractice4ex5.AssemblyInfo.cs
+C:\Users\Bolit\RiderProjects\StudyPractice4\StudyPractice4ex5\obj\Debug\net7.0\StudyPractice4ex5.csproj.CoreCompileInputs.cache
+C:\Users\Bolit\RiderProjects\StudyPractice4\StudyPractice4ex5\obj\Debug\net7.0\StudyPractice4ex5.dll
+C:\Users\Bolit\RiderProjects\StudyPractice4\StudyPractice4ex5\obj\Debug\net7.0\refint\StudyPractice4ex5.dll
+C:\Users\Bolit\RiderProjects\StudyPractice4\StudyPractice4ex5\obj\Debug\net7.0\StudyPractice4ex5.pdb
+C:\Users\Bolit\RiderProjects\StudyPractice4\StudyPractice4ex5\obj\Debug\net7.0\StudyPractice4ex5.genruntimeconfig.cache
+C:\Users\Bolit\RiderProjects\StudyPractice4\StudyPractice4ex5\obj\Debug\net7.0\ref\StudyPractice4ex5.dll

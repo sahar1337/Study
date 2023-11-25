@@ -1,0 +1,28 @@
+C:\Users\gr631_kurse\RiderProjects\StudyPractice3\StudyPractice3ex3\bin\Debug\net7.0\StudyPractice3ex3.exe
+C:\Users\gr631_kurse\RiderProjects\StudyPractice3\StudyPractice3ex3\bin\Debug\net7.0\StudyPractice3ex3.deps.json
+C:\Users\gr631_kurse\RiderProjects\StudyPractice3\StudyPractice3ex3\bin\Debug\net7.0\StudyPractice3ex3.runtimeconfig.json
+C:\Users\gr631_kurse\RiderProjects\StudyPractice3\StudyPractice3ex3\bin\Debug\net7.0\StudyPractice3ex3.dll
+C:\Users\gr631_kurse\RiderProjects\StudyPractice3\StudyPractice3ex3\bin\Debug\net7.0\StudyPractice3ex3.pdb
+C:\Users\gr631_kurse\RiderProjects\StudyPractice3\StudyPractice3ex3\obj\Debug\net7.0\StudyPractice3ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr631_kurse\RiderProjects\StudyPractice3\StudyPractice3ex3\obj\Debug\net7.0\StudyPractice3ex3.AssemblyInfoInputs.cache
+C:\Users\gr631_kurse\RiderProjects\StudyPractice3\StudyPractice3ex3\obj\Debug\net7.0\StudyPractice3ex3.AssemblyInfo.cs
+C:\Users\gr631_kurse\RiderProjects\StudyPractice3\StudyPractice3ex3\obj\Debug\net7.0\StudyPractice3ex3.csproj.CoreCompileInputs.cache
+C:\Users\gr631_kurse\RiderProjects\StudyPractice3\StudyPractice3ex3\obj\Debug\net7.0\StudyPractice3ex3.dll
+C:\Users\gr631_kurse\RiderProjects\StudyPractice3\StudyPractice3ex3\obj\Debug\net7.0\refint\StudyPractice3ex3.dll
+C:\Users\gr631_kurse\RiderProjects\StudyPractice3\StudyPractice3ex3\obj\Debug\net7.0\StudyPractice3ex3.pdb
+C:\Users\gr631_kurse\RiderProjects\StudyPractice3\StudyPractice3ex3\obj\Debug\net7.0\StudyPractice3ex3.genruntimeconfig.cache
+C:\Users\gr631_kurse\RiderProjects\StudyPractice3\StudyPractice3ex3\obj\Debug\net7.0\ref\StudyPractice3ex3.dll
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\StudyPractice3\StudyPractice3ex3\bin\Debug\net7.0\StudyPractice3ex3.exe
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\StudyPractice3\StudyPractice3ex3\bin\Debug\net7.0\StudyPractice3ex3.deps.json
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\StudyPractice3\StudyPractice3ex3\bin\Debug\net7.0\StudyPractice3ex3.runtimeconfig.json
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\StudyPractice3\StudyPractice3ex3\bin\Debug\net7.0\StudyPractice3ex3.dll
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\StudyPractice3\StudyPractice3ex3\bin\Debug\net7.0\StudyPractice3ex3.pdb
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\StudyPractice3\StudyPractice3ex3\obj\Debug\net7.0\StudyPractice3ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\StudyPractice3\StudyPractice3ex3\obj\Debug\net7.0\StudyPractice3ex3.AssemblyInfoInputs.cache
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\StudyPractice3\StudyPractice3ex3\obj\Debug\net7.0\StudyPractice3ex3.AssemblyInfo.cs
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\StudyPractice3\StudyPractice3ex3\obj\Debug\net7.0\StudyPractice3ex3.csproj.CoreCompileInputs.cache
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\StudyPractice3\StudyPractice3ex3\obj\Debug\net7.0\StudyPractice3ex3.dll
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\StudyPractice3\StudyPractice3ex3\obj\Debug\net7.0\refint\StudyPractice3ex3.dll
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\StudyPractice3\StudyPractice3ex3\obj\Debug\net7.0\StudyPractice3ex3.pdb
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\StudyPractice3\StudyPractice3ex3\obj\Debug\net7.0\StudyPractice3ex3.genruntimeconfig.cache
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\StudyPractice3\StudyPractice3ex3\obj\Debug\net7.0\ref\StudyPractice3ex3.dll

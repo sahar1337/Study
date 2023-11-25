@@ -1,0 +1,14 @@
+C:\Users\gr631_kurse\RiderProjects\StudyPractice5\StudyPractice5ex5\bin\Debug\net7.0\StudyPractice5ex5.exe
+C:\Users\gr631_kurse\RiderProjects\StudyPractice5\StudyPractice5ex5\bin\Debug\net7.0\StudyPractice5ex5.deps.json
+C:\Users\gr631_kurse\RiderProjects\StudyPractice5\StudyPractice5ex5\bin\Debug\net7.0\StudyPractice5ex5.runtimeconfig.json
+C:\Users\gr631_kurse\RiderProjects\StudyPractice5\StudyPractice5ex5\bin\Debug\net7.0\StudyPractice5ex5.dll
+C:\Users\gr631_kurse\RiderProjects\StudyPractice5\StudyPractice5ex5\bin\Debug\net7.0\StudyPractice5ex5.pdb
+C:\Users\gr631_kurse\RiderProjects\StudyPractice5\StudyPractice5ex5\obj\Debug\net7.0\StudyPractice5ex5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr631_kurse\RiderProjects\StudyPractice5\StudyPractice5ex5\obj\Debug\net7.0\StudyPractice5ex5.AssemblyInfoInputs.cache
+C:\Users\gr631_kurse\RiderProjects\StudyPractice5\StudyPractice5ex5\obj\Debug\net7.0\StudyPractice5ex5.AssemblyInfo.cs
+C:\Users\gr631_kurse\RiderProjects\StudyPractice5\StudyPractice5ex5\obj\Debug\net7.0\StudyPractice5ex5.csproj.CoreCompileInputs.cache
+C:\Users\gr631_kurse\RiderProjects\StudyPractice5\StudyPractice5ex5\obj\Debug\net7.0\StudyPractice5ex5.dll
+C:\Users\gr631_kurse\RiderProjects\StudyPractice5\StudyPractice5ex5\obj\Debug\net7.0\refint\StudyPractice5ex5.dll
+C:\Users\gr631_kurse\RiderProjects\StudyPractice5\StudyPractice5ex5\obj\Debug\net7.0\StudyPractice5ex5.pdb
+C:\Users\gr631_kurse\RiderProjects\StudyPractice5\StudyPractice5ex5\obj\Debug\net7.0\StudyPractice5ex5.genruntimeconfig.cache
+C:\Users\gr631_kurse\RiderProjects\StudyPractice5\StudyPractice5ex5\obj\Debug\net7.0\ref\StudyPractice5ex5.dll

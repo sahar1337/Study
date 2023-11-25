@@ -1,0 +1,14 @@
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\StudyPractice6\StudyPractice6ex5\bin\Debug\net7.0\StudyPractice6ex5.exe
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\StudyPractice6\StudyPractice6ex5\bin\Debug\net7.0\StudyPractice6ex5.deps.json
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\StudyPractice6\StudyPractice6ex5\bin\Debug\net7.0\StudyPractice6ex5.runtimeconfig.json
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\StudyPractice6\StudyPractice6ex5\bin\Debug\net7.0\StudyPractice6ex5.dll
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\StudyPractice6\StudyPractice6ex5\bin\Debug\net7.0\StudyPractice6ex5.pdb
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\StudyPractice6\StudyPractice6ex5\obj\Debug\net7.0\StudyPractice6ex5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\StudyPractice6\StudyPractice6ex5\obj\Debug\net7.0\StudyPractice6ex5.AssemblyInfoInputs.cache
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\StudyPractice6\StudyPractice6ex5\obj\Debug\net7.0\StudyPractice6ex5.AssemblyInfo.cs
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\StudyPractice6\StudyPractice6ex5\obj\Debug\net7.0\StudyPractice6ex5.csproj.CoreCompileInputs.cache
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\StudyPractice6\StudyPractice6ex5\obj\Debug\net7.0\StudyPractice6ex5.dll
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\StudyPractice6\StudyPractice6ex5\obj\Debug\net7.0\refint\StudyPractice6ex5.dll
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\StudyPractice6\StudyPractice6ex5\obj\Debug\net7.0\StudyPractice6ex5.pdb
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\StudyPractice6\StudyPractice6ex5\obj\Debug\net7.0\StudyPractice6ex5.genruntimeconfig.cache
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\StudyPractice6\StudyPractice6ex5\obj\Debug\net7.0\ref\StudyPractice6ex5.dll

@@ -1,0 +1,34 @@
+C:\Users\Bolit\RiderProjects\Application2\Application2\bin\Debug\net7.0\Application2.exe
+C:\Users\Bolit\RiderProjects\Application2\Application2\bin\Debug\net7.0\Application2.deps.json
+C:\Users\Bolit\RiderProjects\Application2\Application2\bin\Debug\net7.0\Application2.runtimeconfig.json
+C:\Users\Bolit\RiderProjects\Application2\Application2\bin\Debug\net7.0\Application2.dll
+C:\Users\Bolit\RiderProjects\Application2\Application2\bin\Debug\net7.0\Application2.pdb
+C:\Users\Bolit\RiderProjects\Application2\Application2\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Bolit\RiderProjects\Application2\Application2\obj\Debug\net7.0\Application2.csproj.AssemblyReference.cache
+C:\Users\Bolit\RiderProjects\Application2\Application2\obj\Debug\net7.0\Application2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bolit\RiderProjects\Application2\Application2\obj\Debug\net7.0\Application2.AssemblyInfoInputs.cache
+C:\Users\Bolit\RiderProjects\Application2\Application2\obj\Debug\net7.0\Application2.AssemblyInfo.cs
+C:\Users\Bolit\RiderProjects\Application2\Application2\obj\Debug\net7.0\Application2.csproj.CoreCompileInputs.cache
+C:\Users\Bolit\RiderProjects\Application2\Application2\obj\Debug\net7.0\Application2.csproj.CopyComplete
+C:\Users\Bolit\RiderProjects\Application2\Application2\obj\Debug\net7.0\Application2.dll
+C:\Users\Bolit\RiderProjects\Application2\Application2\obj\Debug\net7.0\refint\Application2.dll
+C:\Users\Bolit\RiderProjects\Application2\Application2\obj\Debug\net7.0\Application2.pdb
+C:\Users\Bolit\RiderProjects\Application2\Application2\obj\Debug\net7.0\Application2.genruntimeconfig.cache
+C:\Users\Bolit\RiderProjects\Application2\Application2\obj\Debug\net7.0\ref\Application2.dll
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\Application2\Application2\bin\Debug\net7.0\Application2.exe
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\Application2\Application2\bin\Debug\net7.0\Application2.deps.json
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\Application2\Application2\bin\Debug\net7.0\Application2.runtimeconfig.json
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\Application2\Application2\bin\Debug\net7.0\Application2.dll
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\Application2\Application2\bin\Debug\net7.0\Application2.pdb
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\Application2\Application2\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\Application2\Application2\obj\Debug\net7.0\Application2.csproj.AssemblyReference.cache
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\Application2\Application2\obj\Debug\net7.0\Application2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\Application2\Application2\obj\Debug\net7.0\Application2.AssemblyInfoInputs.cache
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\Application2\Application2\obj\Debug\net7.0\Application2.AssemblyInfo.cs
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\Application2\Application2\obj\Debug\net7.0\Application2.csproj.CoreCompileInputs.cache
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\Application2\Application2\obj\Debug\net7.0\Application2.csproj.CopyComplete
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\Application2\Application2\obj\Debug\net7.0\Application2.dll
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\Application2\Application2\obj\Debug\net7.0\refint\Application2.dll
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\Application2\Application2\obj\Debug\net7.0\Application2.pdb
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\Application2\Application2\obj\Debug\net7.0\Application2.genruntimeconfig.cache
+C:\Users\Bolit\OneDrive\Рабочий стол\УП C#\Application2\Application2\obj\Debug\net7.0\ref\Application2.dll

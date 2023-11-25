@@ -1,0 +1,28 @@
+C:\Users\gr631_kurse\RiderProjects\StudyPractice2\StudyPractice2ex2\bin\Debug\net7.0\StudyPractice2ex2.exe
+C:\Users\gr631_kurse\RiderProjects\StudyPractice2\StudyPractice2ex2\bin\Debug\net7.0\StudyPractice2ex2.deps.json
+C:\Users\gr631_kurse\RiderProjects\StudyPractice2\StudyPractice2ex2\bin\Debug\net7.0\StudyPractice2ex2.runtimeconfig.json
+C:\Users\gr631_kurse\RiderProjects\StudyPractice2\StudyPractice2ex2\bin\Debug\net7.0\StudyPractice2ex2.dll
+C:\Users\gr631_kurse\RiderProjects\StudyPractice2\StudyPractice2ex2\bin\Debug\net7.0\StudyPractice2ex2.pdb
+C:\Users\gr631_kurse\RiderProjects\StudyPractice2\StudyPractice2ex2\obj\Debug\net7.0\StudyPractice2ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr631_kurse\RiderProjects\StudyPractice2\StudyPractice2ex2\obj\Debug\net7.0\StudyPractice2ex2.AssemblyInfoInputs.cache
+C:\Users\gr631_kurse\RiderProjects\StudyPractice2\StudyPractice2ex2\obj\Debug\net7.0\StudyPractice2ex2.AssemblyInfo.cs
+C:\Users\gr631_kurse\RiderProjects\StudyPractice2\StudyPractice2ex2\obj\Debug\net7.0\StudyPractice2ex2.csproj.CoreCompileInputs.cache
+C:\Users\gr631_kurse\RiderProjects\StudyPractice2\StudyPractice2ex2\obj\Debug\net7.0\StudyPractice2ex2.dll
+C:\Users\gr631_kurse\RiderProjects\StudyPractice2\StudyPractice2ex2\obj\Debug\net7.0\refint\StudyPractice2ex2.dll
+C:\Users\gr631_kurse\RiderProjects\StudyPractice2\StudyPractice2ex2\obj\Debug\net7.0\StudyPractice2ex2.pdb
+C:\Users\gr631_kurse\RiderProjects\StudyPractice2\StudyPractice2ex2\obj\Debug\net7.0\StudyPractice2ex2.genruntimeconfig.cache
+C:\Users\gr631_kurse\RiderProjects\StudyPractice2\StudyPractice2ex2\obj\Debug\net7.0\ref\StudyPractice2ex2.dll
+C:\Users\gr631_kurse\Desktop\Программы на C#\StudyPractice2\StudyPractice2ex2\bin\Debug\net7.0\StudyPractice2ex2.exe
+C:\Users\gr631_kurse\Desktop\Программы на C#\StudyPractice2\StudyPractice2ex2\bin\Debug\net7.0\StudyPractice2ex2.deps.json
+C:\Users\gr631_kurse\Desktop\Программы на C#\StudyPractice2\StudyPractice2ex2\bin\Debug\net7.0\StudyPractice2ex2.runtimeconfig.json
+C:\Users\gr631_kurse\Desktop\Программы на C#\StudyPractice2\StudyPractice2ex2\bin\Debug\net7.0\StudyPractice2ex2.dll
+C:\Users\gr631_kurse\Desktop\Программы на C#\StudyPractice2\StudyPractice2ex2\bin\Debug\net7.0\StudyPractice2ex2.pdb
+C:\Users\gr631_kurse\Desktop\Программы на C#\StudyPractice2\StudyPractice2ex2\obj\Debug\net7.0\StudyPractice2ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr631_kurse\Desktop\Программы на C#\StudyPractice2\StudyPractice2ex2\obj\Debug\net7.0\StudyPractice2ex2.AssemblyInfoInputs.cache
+C:\Users\gr631_kurse\Desktop\Программы на C#\StudyPractice2\StudyPractice2ex2\obj\Debug\net7.0\StudyPractice2ex2.AssemblyInfo.cs
+C:\Users\gr631_kurse\Desktop\Программы на C#\StudyPractice2\StudyPractice2ex2\obj\Debug\net7.0\StudyPractice2ex2.csproj.CoreCompileInputs.cache
+C:\Users\gr631_kurse\Desktop\Программы на C#\StudyPractice2\StudyPractice2ex2\obj\Debug\net7.0\StudyPractice2ex2.dll
+C:\Users\gr631_kurse\Desktop\Программы на C#\StudyPractice2\StudyPractice2ex2\obj\Debug\net7.0\refint\StudyPractice2ex2.dll
+C:\Users\gr631_kurse\Desktop\Программы на C#\StudyPractice2\StudyPractice2ex2\obj\Debug\net7.0\StudyPractice2ex2.pdb
+C:\Users\gr631_kurse\Desktop\Программы на C#\StudyPractice2\StudyPractice2ex2\obj\Debug\net7.0\StudyPractice2ex2.genruntimeconfig.cache
+C:\Users\gr631_kurse\Desktop\Программы на C#\StudyPractice2\StudyPractice2ex2\obj\Debug\net7.0\ref\StudyPractice2ex2.dll
