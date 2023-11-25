@@ -1,0 +1,17 @@
+C:\Users\gr631_kurse\RiderProjects\StudyPracticeAll\Application1\bin\Debug\net7.0\Application1.exe
+C:\Users\gr631_kurse\RiderProjects\StudyPracticeAll\Application1\bin\Debug\net7.0\Application1.deps.json
+C:\Users\gr631_kurse\RiderProjects\StudyPracticeAll\Application1\bin\Debug\net7.0\Application1.runtimeconfig.json
+C:\Users\gr631_kurse\RiderProjects\StudyPracticeAll\Application1\bin\Debug\net7.0\Application1.dll
+C:\Users\gr631_kurse\RiderProjects\StudyPracticeAll\Application1\bin\Debug\net7.0\Application1.pdb
+C:\Users\gr631_kurse\RiderProjects\StudyPracticeAll\Application1\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\gr631_kurse\RiderProjects\StudyPracticeAll\Application1\obj\Debug\net7.0\Application1.csproj.AssemblyReference.cache
+C:\Users\gr631_kurse\RiderProjects\StudyPracticeAll\Application1\obj\Debug\net7.0\Application1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr631_kurse\RiderProjects\StudyPracticeAll\Application1\obj\Debug\net7.0\Application1.AssemblyInfoInputs.cache
+C:\Users\gr631_kurse\RiderProjects\StudyPracticeAll\Application1\obj\Debug\net7.0\Application1.AssemblyInfo.cs
+C:\Users\gr631_kurse\RiderProjects\StudyPracticeAll\Application1\obj\Debug\net7.0\Application1.csproj.CoreCompileInputs.cache
+C:\Users\gr631_kurse\RiderProjects\StudyPracticeAll\Application1\obj\Debug\net7.0\Application1.csproj.CopyComplete
+C:\Users\gr631_kurse\RiderProjects\StudyPracticeAll\Application1\obj\Debug\net7.0\Application1.dll
+C:\Users\gr631_kurse\RiderProjects\StudyPracticeAll\Application1\obj\Debug\net7.0\refint\Application1.dll
+C:\Users\gr631_kurse\RiderProjects\StudyPracticeAll\Application1\obj\Debug\net7.0\Application1.pdb
+C:\Users\gr631_kurse\RiderProjects\StudyPracticeAll\Application1\obj\Debug\net7.0\Application1.genruntimeconfig.cache
+C:\Users\gr631_kurse\RiderProjects\StudyPracticeAll\Application1\obj\Debug\net7.0\ref\Application1.dll
