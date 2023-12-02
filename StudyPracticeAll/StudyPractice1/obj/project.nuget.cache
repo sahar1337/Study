@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "W7lDfELSBzxu1wBkF37D6vPEzrmC68IvWsyEyF+KWIz8auPWu7RfwqAEogcz42+umg4dZVrvaUeN3vjoS9EvaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gr631_kurse\\RiderProjects\\StudyPracticeAll\\StudyPractice1\\StudyPractice1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gr631_kurse\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\gr631_kurse\\.nuget\\packages\\newtonsoft.json.bson\\1.0.3-beta1\\newtonsoft.json.bson.1.0.3-beta1.nupkg.sha512"
+  ],
+  "logs": []
+}

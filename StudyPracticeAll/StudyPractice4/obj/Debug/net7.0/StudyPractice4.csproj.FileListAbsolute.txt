@@ -1,0 +1,17 @@
+C:\Users\gr631_kurse\RiderProjects\StudyPracticeAll\StudyPractice4\obj\Debug\net7.0\StudyPractice4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr631_kurse\RiderProjects\StudyPracticeAll\StudyPractice4\obj\Debug\net7.0\StudyPractice4.AssemblyInfoInputs.cache
+C:\Users\gr631_kurse\RiderProjects\StudyPracticeAll\StudyPractice4\obj\Debug\net7.0\StudyPractice4.AssemblyInfo.cs
+C:\Users\gr631_kurse\RiderProjects\StudyPracticeAll\StudyPractice4\obj\Debug\net7.0\StudyPractice4.csproj.CoreCompileInputs.cache
+C:\Users\gr631_kurse\RiderProjects\StudyPracticeAll\StudyPractice4\bin\Debug\net7.0\StudyPractice4.exe
+C:\Users\gr631_kurse\RiderProjects\StudyPracticeAll\StudyPractice4\bin\Debug\net7.0\StudyPractice4.deps.json
+C:\Users\gr631_kurse\RiderProjects\StudyPracticeAll\StudyPractice4\bin\Debug\net7.0\StudyPractice4.runtimeconfig.json
+C:\Users\gr631_kurse\RiderProjects\StudyPracticeAll\StudyPractice4\bin\Debug\net7.0\StudyPractice4.dll
+C:\Users\gr631_kurse\RiderProjects\StudyPracticeAll\StudyPractice4\bin\Debug\net7.0\StudyPractice4.pdb
+C:\Users\gr631_kurse\RiderProjects\StudyPracticeAll\StudyPractice4\obj\Debug\net7.0\StudyPractice4.dll
+C:\Users\gr631_kurse\RiderProjects\StudyPracticeAll\StudyPractice4\obj\Debug\net7.0\refint\StudyPractice4.dll
+C:\Users\gr631_kurse\RiderProjects\StudyPracticeAll\StudyPractice4\obj\Debug\net7.0\StudyPractice4.pdb
+C:\Users\gr631_kurse\RiderProjects\StudyPracticeAll\StudyPractice4\obj\Debug\net7.0\StudyPractice4.genruntimeconfig.cache
+C:\Users\gr631_kurse\RiderProjects\StudyPracticeAll\StudyPractice4\obj\Debug\net7.0\ref\StudyPractice4.dll
+C:\Users\gr631_kurse\RiderProjects\StudyPracticeAll\StudyPractice4\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\gr631_kurse\RiderProjects\StudyPracticeAll\StudyPractice4\obj\Debug\net7.0\StudyPractice4.csproj.AssemblyReference.cache
+C:\Users\gr631_kurse\RiderProjects\StudyPracticeAll\StudyPractice4\obj\Debug\net7.0\StudyPractice4.csproj.CopyComplete
