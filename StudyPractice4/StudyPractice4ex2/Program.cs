@@ -11,12 +11,12 @@ public class Program
             string[] numbers = line.Split(';');
             foreach (string number in numbers)
             {
-                double Currentnumber = Convert.ToDouble(number);
-                if (Currentnumber > 0)
+                double currentNumber = Convert.ToDouble(number);
+                if (currentNumber > 0)
                 {
-                    sum += Currentnumber;
+                    sum += currentNumber;
                 }
-                else if (Currentnumber == 0)
+                else if (currentNumber == 0)
                 {
                     break;
                 }
