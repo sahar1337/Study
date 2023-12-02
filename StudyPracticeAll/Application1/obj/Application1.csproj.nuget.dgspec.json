@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gr631_kurse\\RiderProjects\\StudyPracticeAll\\Application1\\Application1.csproj": {}
+    "C:\\Users\\Bolit\\OneDrive\\Рабочий стол\\УП C#\\StudyPracticeAll\\Application1\\Application1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gr631_kurse\\RiderProjects\\StudyPracticeAll\\Application1\\Application1.csproj": {
+    "C:\\Users\\Bolit\\OneDrive\\Рабочий стол\\УП C#\\StudyPracticeAll\\Application1\\Application1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gr631_kurse\\RiderProjects\\StudyPracticeAll\\Application1\\Application1.csproj",
+        "projectUniqueName": "C:\\Users\\Bolit\\OneDrive\\Рабочий стол\\УП C#\\StudyPracticeAll\\Application1\\Application1.csproj",
         "projectName": "Application1",
-        "projectPath": "C:\\Users\\gr631_kurse\\RiderProjects\\StudyPracticeAll\\Application1\\Application1.csproj",
-        "packagesPath": "C:\\Users\\gr631_kurse\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gr631_kurse\\RiderProjects\\StudyPracticeAll\\Application1\\obj\\",
+        "projectPath": "C:\\Users\\Bolit\\OneDrive\\Рабочий стол\\УП C#\\StudyPracticeAll\\Application1\\Application1.csproj",
+        "packagesPath": "C:\\Users\\Bolit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bolit\\OneDrive\\Рабочий стол\\УП C#\\StudyPracticeAll\\Application1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\gr631_kurse\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Bolit\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

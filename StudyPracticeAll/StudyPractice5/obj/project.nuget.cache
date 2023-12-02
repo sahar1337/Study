@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "cLYhirYsRuUoMh8I/1WlYj4QvbysSG6Z4NTEmvLFI1ON8bP1mqSqebk2BxJtsWMKs8hwHk/aWIqgCwPrlYmovw==",
+  "dgSpecHash": "VUXxZ+GICP56GA6vuudX2Te45ip8hBC2LbSnA6CQvdAyyVYHrRIHF++NusiGEGVIHjm8YBnGy5O1WmIIQfKi+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gr631_kurse\\RiderProjects\\StudyPracticeAll\\StudyPractice5\\StudyPractice5.csproj",
+  "projectFilePath": "C:\\Users\\Bolit\\OneDrive\\Рабочий стол\\УП C#\\StudyPracticeAll\\StudyPractice5\\StudyPractice5.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\gr631_kurse\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
-    "C:\\Users\\gr631_kurse\\.nuget\\packages\\newtonsoft.json.bson\\1.0.3-beta1\\newtonsoft.json.bson.1.0.3-beta1.nupkg.sha512"
+    "C:\\Users\\Bolit\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Bolit\\.nuget\\packages\\newtonsoft.json.bson\\1.0.3-beta1\\newtonsoft.json.bson.1.0.3-beta1.nupkg.sha512"
   ],
   "logs": []
 }
